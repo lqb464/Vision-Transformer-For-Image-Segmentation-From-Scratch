@@ -1,0 +1,14 @@
+# Thư viện xử lý dữ liệu
+numpy
+pandas
+
+# Thư viện trực quan hóa
+matplotlib
+seaborn
+
+# Thư viện Deep Learning
+torch
+torchvision
+
+# Thư viện ảnh
+Pillow
